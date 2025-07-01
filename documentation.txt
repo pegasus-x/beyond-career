@@ -1,0 +1,11 @@
+📐 Design Rationale Document (50 words)
+--------------------------------------
+The design uses a clean, accessible layout with a calm blue (#2A63FF) color scheme that evokes trust and professionalism. The Inter font ensures readability across devices. Spacing, section hierarchy, and smooth transitions improve user engagement. Mobile-first responsive grids and minimalistic UI enhance experience without overwhelming users on any screen size.
+
+⚙️ Technical Documentation (30 words)
+------------------------------------
+Built with semantic HTML5, CSS3 using `clamp()` and Flex/Grid for responsiveness, and JavaScript ES6+. AJAX handles form submission. Optimizations include async scripts, SVG usage, and lazy loading where applicable. GA4 tracks engagement.
+
+🚀 Deployment Guide (20 words)
+------------------------------
+Pushed code to GitHub, deployed using Vercel for static hosting. Chose Vercel for its simplicity. Final URL tested across browsers and devices.
