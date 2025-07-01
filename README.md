@@ -67,9 +67,9 @@ cd beyond-career-landing
 
 ### 3. Google Analytics 4 Setup
 - Go to [Google Analytics](https://analytics.google.com) and create a new GA4 property.
-- Add the following script in your `<head>` section, replacing `G-XXXXXXXXXX` with your measurement ID:
+- Add the following script in your `<head>` section
   ```html
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7T739D9GVF"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -79,7 +79,7 @@ cd beyond-career-landing
   ```
 - Create a GA4 property at [analytics.google.com](https://analytics.google.com
   ```html
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7T739D9GVF"></script>
   ```
 
 ---
