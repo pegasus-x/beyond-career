@@ -18,7 +18,7 @@ This project was developed as part of a technical assessment. It showcases:
 
 ## 🚀 Live Demo
 
-👉 [Visit the Live Website](https://beyond-career-beta.vercel.app/)
+👉 https://beyond-career-beta.vercel.app/
 
 ---
 
