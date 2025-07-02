@@ -77,7 +77,7 @@ cd beyond-career-landing
     gtag('config', 'G-7T739D9GVF');
   </script>
   ```
-- Create a GA4 property at [analytics.google.com](https://analytics.google.com
+- Create a GA4 property at [analytics.google.com](https://analytics.google.com)
   ```html
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7T739D9GVF"></script>
   ```
